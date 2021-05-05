@@ -1,0 +1,17 @@
+# Import cache
+.import/
+
+# Binaries
+bin/
+build/
+lib/
+
+# Advices from documentation
+# https://docs.godotengine.org/en/stable/getting_started/workflow/project_setup/version_control_systems.html
+*.translation
+export_presets.cfg
+.mono/
+
+
+
+
