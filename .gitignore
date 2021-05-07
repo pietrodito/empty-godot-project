@@ -12,6 +12,9 @@ lib/
 export_presets.cfg
 .mono/
 
+# Git for Godot files:
+git_api.gdnlib
+git_api.gdns
 
 
 
